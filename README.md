@@ -35,7 +35,7 @@ Mình dịch trên phiên bản 49707 nên có thể không chạy hoặc có l�
 Nếu chưa biết cách sữ dụng [github](https://github.com) thì bạn có thể xem thêm [ở đây](https://github.com/cackehoa/cackehoa/blob/main/huongdan/HUONG-DAN.md)
 
 ## Liên lạc và ủng hộ
-Ủng hộ tại: [Playerduo](https://playerduo.com/cackehoa)
+Ủng hộ tại: [Playerduo](https://playerduo.net/cackehoa)
 
 Fanpage: [fb](https://www.facebook.com/cackehoa)
 
