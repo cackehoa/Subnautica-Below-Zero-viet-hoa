@@ -1,5 +1,5 @@
 # Subnautica Below Zero việt hóa
-Đây là Subnautica Below Zero việt hóa phiên bản 44290
+Đây là Subnautica Below Zero việt hóa phiên bản 49707
 ## Giới thiệu về game
 Đắm mình trong một cuộc thám hiểm hoàn toàn mới vùng Bắc Cực của Hành tinh 4546B dưới 0 độ trong Subnautica: Below Zero việt hóa. Đến nơi với trí thông minh của bạn và một số thiết bị sinh tồn, bạn bắt đầu điều tra những gì đã xảy ra với em gái…
 
@@ -19,9 +19,9 @@ Cài đặt trò chơi Subnautica Below Zero và chạy thử trước khi cài 
 
 Đề nghị mua trò chơi để ủng hộ nhà sản xuất.
 
-### Phiên bản yêu cầu: 44290
+### Phiên bản yêu cầu: 49707
 
-Mình dịch trên phiên bản 44290 nên có thể không chạy hoặc có lỗi trên phiên bản khác
+Mình dịch trên phiên bản 49707 nên có thể không chạy hoặc có lỗi trên phiên bản khác
 
 ### Cài đặt Addons
 
